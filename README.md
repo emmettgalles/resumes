@@ -7,6 +7,6 @@ I welcome feedback, questions, or comments you may have about any file in this r
 ### EmmettGalles_resume_LAW.pdf
 
   - Description: resume for positions relating to patent law or intellectual property defense
-  - General notes: my start date would have to be after I graduate with my undergraduate degree in May 2021
+  - General notes: my start date would have to be after I graduate with my undergraduate degree in May 2021. The current version of this file contains links to my publications. If you would like to access the links (which I highly recommend), please download the file and open it in any PDF viewer; GitHub's preview does not allow for clickable links.
 
 -- Emmett Galles
